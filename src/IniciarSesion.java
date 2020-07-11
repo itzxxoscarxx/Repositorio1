@@ -20,6 +20,7 @@ public class IniciarSesion extends javax.swing.JFrame {
         System.out.println("Deja de Joder Arenoso de mrd ");
         System.out.println("Hola violale dor de patos");
         System.out.println("Ah prro traes el omnitrix");
+        System.out.println("marrano!");
     }
 
     /**
