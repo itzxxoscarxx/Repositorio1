@@ -12,6 +12,7 @@ public class IniciarSesion extends javax.swing.JFrame {
 
     /**
      * Creates new form IniciarSesion
+     *y tu papa? :'v
      */
     public IniciarSesion() {
         initComponents();
