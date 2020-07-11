@@ -17,6 +17,7 @@ public class IniciarSesion extends javax.swing.JFrame {
         initComponents();
         System.out.println("Hola Ctmr");
         System.out.println("Deja de Joder Arenoso de mrd ");
+        System.out.println("Hola violale dor de patos")
     }
 
     /**
