@@ -21,6 +21,7 @@ public class IniciarSesion extends javax.swing.JFrame {
         System.out.println("Hola violale dor de patos");
         System.out.println("Ah prro traes el omnitrix");
         System.out.println("marrano!");
+         System.out.println("Puto , puerco cochino");
     }
 
     /**
